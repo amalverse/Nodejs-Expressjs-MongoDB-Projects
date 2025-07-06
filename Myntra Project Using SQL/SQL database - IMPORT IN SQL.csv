@@ -1,0 +1,5 @@
+id,houseName,price,description,photoUrl,location,rating
+2,"Star Home",1000,"Luxury House --- Golden Standard","https://hips.hearstapps.com/hmg-prod/images/mcdowell-farmhouse-exterior-6659429cc95fc.jpg?crop=0.651xw:0.976xh;0.309xw,0.0240xh&resize=1120:*",Delhi,5
+3,"Amal House",800,"Luxury House",https://i.pinimg.com/736x/f0/fc/17/f0fc17618d45910665e1efb85c1c0a72.jpg,Patna,5
+4,"India House",1000,"Luxury House","https://hips.hearstapps.com/hmg-prod/images/mcdowell-farmhouse-exterior-6659429cc95fc.jpg?crop=0.651xw:0.976xh;0.309xw,0.0240xh&resize=1120:*",Kolkata,4
+5,"Dream House",5000,"Luxury House",https://i.pinimg.com/736x/f0/fc/17/f0fc17618d45910665e1efb85c1c0a72.jpg,Mumbai,5
